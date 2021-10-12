@@ -1,5 +1,5 @@
 
-const open = document.querySelector(".cta");
+const open = document.querySelector(".fa-bars");
 open.addEventListener('click' , expand);
 
 function expand() {
